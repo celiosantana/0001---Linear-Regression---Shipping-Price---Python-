@@ -1,4 +1,5 @@
 # 0001---Linear-Regression---Shipping-Price---Python-
-Python Project for Linear Regression using SKlearn Library in shipping pricing context
 
-This is a small example using Python, Pandas and Sklearn to predict a shipping delivery deadline (in days) considering the price of this shipping.
+🇬🇧 - English
+
+🏁 - This project was developed in Python to test how the Linear Regression function (SKLearn) works. The idea is to predict when a shipping will arrive, informing how much we pay for that shipping. There is a small historical basis (dataset), and the idea is to have answers based on this historical base.
